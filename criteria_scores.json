@@ -1,0 +1,65 @@
+{
+  "overall": {
+    "score": 0.8608989491573081,
+    "status": "Ready",
+    "last_update": "2025-04-20T12:09:15Z"
+  },
+  "criteria": {
+    "A": {
+      "name": "Student Outcomes",
+      "coverage": 1.0,
+      "quality": 0.26,
+      "score": 0.85,
+      "status": "Pass"
+    },
+    "B": {
+      "name": "Continuous Improvement",
+      "coverage": 1.0,
+      "quality": 0.26,
+      "score": 0.85,
+      "status": "Pass"
+    },
+    "C": {
+      "name": "Curriculum",
+      "coverage": 1.0,
+      "quality": 0.29,
+      "score": 0.86,
+      "status": "Pass"
+    },
+    "D": {
+      "name": "Faculty",
+      "coverage": 1.0,
+      "quality": 0.28,
+      "score": 0.86,
+      "status": "Pass"
+    },
+    "E": {
+      "name": "Facilities",
+      "coverage": 1.0,
+      "quality": 0.35,
+      "score": 0.87,
+      "status": "Pass"
+    },
+    "F": {
+      "name": "Institutional Support",
+      "coverage": 1.0,
+      "quality": 0.38,
+      "score": 0.88,
+      "status": "Pass"
+    },
+    "G": {
+      "name": "Program Criteria",
+      "coverage": 1.0,
+      "quality": 0.34,
+      "score": 0.87,
+      "status": "Pass"
+    },
+    "H": {
+      "name": "Student Support",
+      "coverage": 1.0,
+      "quality": 0.31,
+      "score": 0.86,
+      "status": "Pass"
+    }
+  }
+}
